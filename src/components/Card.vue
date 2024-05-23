@@ -21,52 +21,52 @@
       return {
         cards: [
           {
-            img: "https://img.freepik.com/premium-photo/row-fashionable-polo-tshirts-man-wooden-hanger-rack-clothing-boutique-retail-shop_326694-48415.jpg?size=626&ext=jpg&ga=GA1.2.1231175041.1716021742&semt=ais_user",
+            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsZXd1Ri6m-L-3ldWo68QMLn-VUYYhjSAGUwR8hBr2bg&s",
             title: "Shirt superme",
             harga: "Rp 120.000",
             description: "lorem ipsum dolor sit amet"
           },
           {
-            img: "https://img.freepik.com/premium-photo/row-fashionable-polo-tshirts-man-wooden-hanger-rack-clothing-boutique-retail-shop_326694-47545.jpg?size=626&ext=jpg&ga=GA1.1.1231175041.1716021742&semt=ais_user",
-            title: "Baju Polos",
+            img: "https://thumbor.prod.raenabeauty.com/unsafe/filters:format(webp)/https://d1dnhxm90ph8r2.cloudfront.net/products/images/PBR001/ab0440da-a860-4b5b-a122-b9c0877deadd",
+            title: "PINKBERRY",
             harga: "Rp 150.000",
-            description: "Baju desain polos"
+            description: "TIPE 3"
           },
           {
-            img: "https://img.freepik.com/free-photo/apparel-embossed-logo-mockup_23-2149779520.jpg?t=st=1716034784~exp=1716038384~hmac=ce01bc80835975a525adb372b334b372bd4ef903f26907353f9e12cb0138bb25&w=740",
-            title: "Hoodie Shirt",
+            img: "https://dynamic.zacdn.com/Hw3EGagfJmMPKHpfAelzZckh-Ss=/filters:quality(70):format(webp)/https://static-id.zacdn.com/p/istana-boneka-3173-8274724-1.jpg",
+            title: "romans wisH",
             harga: "Rp 200.000",
-            description: "Hoodie desain polos"
+            description: "MODEL TERBARU"
           },
           {
-            img: "https://img.freepik.com/free-photo/happy-couple-stylish-hoodies-winter-outdoor-shoot_53876-105545.jpg?t=st=1716034910~exp=1716038510~hmac=7d206cb1e011a059fedee3e31f763e099530946467c6864e1af4fad8a2a67ab2&w=740",
-            title: "Hoodie",
+            img: "https://id.ozcosmetics.com/prodimgs/202305/287086.jpg",
+            title: "MY WAY",
             harga: "Rp 500.000",
-            description: "Hoodie stylish outdoor"
+            description: "GIORGIO ARMAN"
           },
           {
-            img: "https://img.freepik.com/free-photo/sport-jacket-clothing_1203-2534.jpg?t=st=1716034975~exp=1716038575~hmac=31b0e6296b5e448d91173f51eb0dc2065e34ecaf745469f1b117c2e22557e0a4&w=740",
-            title: "Jacket Clothing",
+            img: "https://thefragranceshopinc.com/cdn/shop/products/image_6291effb-a45c-4170-9581-f8ce453dd616_1024x1024.jpg?v=1615160131",
+            title: "SAUVAGE",
             harga: "Rp 500.000",
-            description: "jacket Sport"
+            description: "Parfum Sport"
           },
           {
-            img: "https://img.freepik.com/free-photo/business-casual-shirt-white-closeup-outdoor-photoshoot_53876-119744.jpg?t=st=1716035116~exp=1716038716~hmac=277326106022541123ee15b77eec55a256edfcd57c0dfc38a614c36c2754af09&w=740",
-            title: "Kemeja",
+            img: "https://img.id.my-best.com/product_images/ad31ee308c54179b0f6268c8247bdda6.jpeg?ixlib=rails-4.3.1&q=70&lossless=0&w=800&h=800&fit=clip&s=e4053645c7f36ede560da94c1ef7e560",
+            title: "Mirror",
             harga: "Rp 650.000",
-            description: "Kemeja Putih Polos"
+            description: "model terbaru"
           },
           {
-            img: "https://img.freepik.com/free-photo/bff-printed-red-hoodie_53876-105408.jpg?t=st=1716035185~exp=1716038785~hmac=26bdfd5a62c2a1eb2720cf9c2211f7f3ec0c88ed269e2f9fee2424184ee32660&w=740",
-            title: "Jacket Hoodie",
+            img: "https://down-id.img.susercontent.com/file/id-11134207-7r98q-lpj70axnm5svee",
+            title: "EAJD",
             harga: "Rp 450.000",
-            description: "jacket hoodie Bertulisan BFF"
+            description: "Bertulisan BFF"
           },
           {
-            img: "https://img.freepik.com/free-psd/hanes-adult-tagless-longsleeve-tee-mockup_126278-60.jpg?t=st=1716035369~exp=1716038969~hmac=d68d1ed9c023b7893a2296d83eef4e62638c0919b70c9cc6ca6c9e4f7f6f3fe1&w=740",
-            title: "Long sleeve shirt",
+            img: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTfejb_WuOSlhXw31HQbQuuKaPNesLz97pyMbMMe1ixHQ&s",
+            title: "kahf",
             harga: "Rp 200.000",
-            description: "long sleeve shirt untuk orang dewasa "
+            description: "kahf harum alami "
           }
         ]
       };
